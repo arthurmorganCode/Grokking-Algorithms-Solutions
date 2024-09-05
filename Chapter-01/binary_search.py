@@ -13,10 +13,3 @@ def binary_search(list, target):
         else:
             return mid
     return None
-
-
-list = [1,3,5,7,9,10,23]
-print (binary_search(list,23))
-
-
-
