@@ -1,8 +1,9 @@
-# Chapter 1: Introduction to Algorithms
-This chapter covers the basics of algorithms, including binary search.
+Chapter 10: K-Nearest Neighbors (K-NN)
+Summary
+K-Nearest Neighbors is a simple, instance-based learning algorithm used for classification and regression. This chapter explains how K-NN works and demonstrates its application with examples.
 
-## Exercises:
-- `exercise1.py`: Implements binary search. the formula is log2 n ~!
-    1.1 : log2 127 = 7
-    1.2 : 8
-- `exercise2.py`: Another example.
+Key Concepts
+Definition of K-NN
+Distance metrics (e.g., Euclidean distance)
+Classification and regression
+Choosing the value of K

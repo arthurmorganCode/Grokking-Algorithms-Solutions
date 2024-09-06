@@ -1,8 +1,9 @@
-# Chapter 1: Introduction to Algorithms
-This chapter covers the basics of algorithms, including binary search.
+Chapter 3: Recursion
+Summary
+This chapter introduces recursion, a powerful technique where a function calls itself to solve smaller instances of the same problem. The chapter uses the factorial function and other examples to explain how recursion works.
 
-## Exercises:
-- `exercise1.py`: Implements binary search. the formula is log2 n ~!
-    1.1 : log2 127 = 7
-    1.2 : 8
-- `exercise2.py`: Another example.
+Key Concepts
+Definition of recursion
+Base case and recursive case
+Factorial example
+Stack and stack overflow

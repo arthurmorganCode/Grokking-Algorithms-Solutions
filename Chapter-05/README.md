@@ -1,8 +1,9 @@
-# Chapter 1: Introduction to Algorithms
-This chapter covers the basics of algorithms, including binary search.
+Chapter 5: Hash Tables
+Summary
+Hash tables are data structures that offer fast data retrieval. This chapter covers the basics of hash tables, including how they work, collision resolution techniques, and common use cases.
 
-## Exercises:
-- `exercise1.py`: Implements binary search. the formula is log2 n ~!
-    1.1 : log2 127 = 7
-    1.2 : 8
-- `exercise2.py`: Another example.
+Key Concepts
+Definition and use of hash tables
+Hash functions
+Collision resolution (e.g., chaining, open addressing)
+Time complexity: Average case O(1) for search, insert, and delete

@@ -1,8 +1,9 @@
-# Chapter 1: Introduction to Algorithms
-This chapter covers the basics of algorithms, including binary search.
+Chapter 8: Greedy Algorithms
+Summary
+Greedy algorithms make locally optimal choices at each step to find a global optimum. This chapter covers various examples of greedy algorithms and explains how they work.
 
-## Exercises:
-- `exercise1.py`: Implements binary search. the formula is log2 n ~!
-    1.1 : log2 127 = 7
-    1.2 : 8
-- `exercise2.py`: Another example.
+Key Concepts
+Definition of greedy algorithms
+Examples (e.g., coin change problem, activity selection)
+Greedy choice property
+Optimal substructure

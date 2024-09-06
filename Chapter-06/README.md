@@ -1,8 +1,9 @@
-# Chapter 1: Introduction to Algorithms
-This chapter covers the basics of algorithms, including binary search.
+Chapter 6: Breadth-First Search (BFS)
+Summary
+Breadth-First Search is an algorithm for traversing or searching tree or graph data structures. This chapter explains BFS and demonstrates how it can be used to find the shortest path in an unweighted graph.
 
-## Exercises:
-- `exercise1.py`: Implements binary search. the formula is log2 n ~!
-    1.1 : log2 127 = 7
-    1.2 : 8
-- `exercise2.py`: Another example.
+Key Concepts
+Definition of BFS
+BFS algorithm for graph traversal
+Use of queues in BFS
+Shortest path in unweighted graphs

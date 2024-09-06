@@ -4,5 +4,5 @@ def fact(i):
     else:
         return fact(i -1) * i
     
-print (fact(4))
+
     
